@@ -1,0 +1,70 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Poppins", sans-serif;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: blur(1px);
+}
+
+.content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.quote {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  animation: fade 4s infinite;
+  color: #050101;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8),
+    0 0 20px rgba(255, 255, 255, 0.6);
+}
+
+.start-btn {
+  padding: 8px 30px;
+  font-size: 1.2rem;
+  font-weight: 500;
+  background: linear-gradient(135deg, #6dd5fa, #e083d8);
+  border: none;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s, background 0.3s;
+}
+
+.start-btn:hover {
+  background: linear-gradient(135deg, #e083d8, #6dd5fa);
+  transform: scale(1.1);
+}
+
+@keyframes fade {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
