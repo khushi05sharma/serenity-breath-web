@@ -13,14 +13,14 @@
 
 ## 📌 Table of Contents
 
-- [🧘‍♀️ About the Project](#about-the-project-)
-- [🌟 Features](#features-)
-- [🖼️ Screenshots](#screenshots-)
-- [🛠️ Tech Stack](#tech-stack-)
-- [🚀 Usage](#usage-)
-- [🌱 Future Enhancements](#future-enhancements-)
-- [📜 License](#license-)
-- [⚙️ Installation](#installation-)
+1. [🧘‍♀️ About the Project](#about-the-project-)
+2. [🌟 Features](#features-)
+3. [🖼️ Screenshots](#screenshots-)
+4. [🛠️ Tech Stack](#tech-stack-)
+5. [🚀 Usage](#usage-)
+6. [🌱 Future Enhancements](#future-enhancements-)
+7. [📜 License](#license-)
+8. [⚙️ Installation](#installation-)
 
 ---
 
