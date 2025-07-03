@@ -13,17 +13,14 @@
 
 ## 📌 Table of Contents
 
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Future Enhancements](#future-enhancements)
-- [Credits](#credits)
-- [License](#license)
-- [Contact](#contact)
+- [🧘‍♀️ About the Project](#about-the-project-)
+- [🌟 Features](#features-)
+- [🖼️ Screenshots](#screenshots-)
+- [🛠️ Tech Stack](#tech-stack-)
+- [🚀 Usage](#usage-)
+- [🌱 Future Enhancements](#future-enhancements-)
+- [📜 License](#license-)
+- [⚙️ Installation](#installation-)
 
 ---
 
@@ -52,7 +49,7 @@ Built with love using **HTML**, **CSS**, and **Vanilla JavaScript**, this projec
 
 | Landing Page | Breathing Page |
 |--------------|----------------|
-| ![Landing](./screenshots/homepage.png) | ![Main](./screenshots/secondpage.png) | ![Responsive](./screenshots/responsive.png)
+| ![Landing](./screenshots/homepage.png) | ![Main](./screenshots/secondpage.png) | 
 
 ---
 
@@ -95,6 +92,13 @@ Use Reset or Stop anytime to pause.
 
 ---
 
+## 📜 License 
+
+This project is licensed under the MIT License– feel free to use, modify, and distribute!
+See the LICENSE file for more details.
+
+---
+
 ## ⚙️ Installation
 
 ### Steps
@@ -108,12 +112,5 @@ cd serenity-breath-web
 
 # 3. Open the project in your browser
 # Simply double-click index.html or run using Live Server in VS Code
-
----
-
-# License 📜
-
-This project is licensed under the MIT License– feel free to use, modify, and distribute!
-See the LICENSE file for more details.
 
 
