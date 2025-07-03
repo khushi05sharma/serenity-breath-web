@@ -13,27 +13,26 @@
 
 ## 📌 Table of Contents
 
-1. [🧘‍♀️ About the Project](#about-the-project)
-2. [🌟 Features](#features)
-3. [🖼️ Screenshots](#screenshots)
-4. [🛠️ Tech Stack](#tech-stack)
-5. [⚙️ Installation](#installation)
-6. [🚀 Usage](#usage)
-7. [🌱 Future Enhancements](#future-enhancements)
-8. [📜 License](#license)
-9. [📬 Contact](#contact)
+1. [About the Project 🧘‍♀️](#about-the-project)
+2. [Features 🌟](#features)
+3. [Screenshots 🖼️](#screenshots)
+4. [Tech Stack 🛠️](#tech-stack)
+5. [Usage 🚀](#usage)
+6. [Future Enhancements 🌱](#future-enhancements)
+7. [License 📜](#license)
+8. [Installation ⚙️](#installation)
 
 
 ---
 
-## 🧘‍♀️ About the Project
+## About the Project 🧘‍♀️
 
 **Serenity Breath Web** is a mindful web application designed to guide users through a calming breathing routine, accompanied by peaceful visuals and ambient music.  
 Built with love using **HTML**, **CSS**, and **Vanilla JavaScript**, this project merges beautiful UI design with real-time interactivity to enhance emotional well-being 🌬️💖
 
 ---
 
-## 🌟 Features
+## Features 🌟
 
 ✅ Animated breathing guide (Inhale → Hold → Exhale)  
 ✅ Motivational quotes that auto-update every few seconds  
@@ -45,7 +44,7 @@ Built with love using **HTML**, **CSS**, and **Vanilla JavaScript**, this projec
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots 🖼️
 
 > Replace these with your own project screenshots
 
@@ -55,7 +54,7 @@ Built with love using **HTML**, **CSS**, and **Vanilla JavaScript**, this projec
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack 🛠️
 
 | Category | Tools Used |
 |---------|------------|
@@ -67,7 +66,7 @@ Built with love using **HTML**, **CSS**, and **Vanilla JavaScript**, this projec
 
 ---
 
-## 🚀 Usage
+## Usage 🚀
 
 Click on “Enter Serenity” to begin your journey.
 
@@ -79,7 +78,7 @@ Use Reset or Stop anytime to pause.
 
 ---
 
-## 🌱 Future Enhancements
+## Future Enhancements 🌱
 
  Add breathing session timer (2 min, 5 min, etc.)
 
@@ -94,14 +93,14 @@ Use Reset or Stop anytime to pause.
 
 ---
 
-## 📜 License 
+## License 📜
 
 This project is licensed under the MIT License– feel free to use, modify, and distribute!
 See the LICENSE file for more details.
 
 ---
 
-## ⚙️ Installation
+## Installation ⚙️
 
 ### Steps
 
