@@ -82,7 +82,6 @@ Use Reset or Stop anytime to pause.
 ## License 📜
 
 This project is licensed under the MIT License– feel free to use, modify, and distribute!
-See the LICENSE file for more details.
 
 ---
 
