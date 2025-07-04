@@ -11,20 +11,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-1. [About the Project 🧘‍♀️](#about-the-project)
-2. [Features 🌟](#features)
-3. [Screenshots 🖼️](#screenshots)
-4. [Tech Stack 🛠️](#tech-stack)
-5. [Usage 🚀](#usage)
-6. [Future Enhancements 🌱](#future-enhancements)
-7. [License 📜](#license)
-8. [Installation ⚙️](#installation)
-
-
----
-
 ## About the Project 🧘‍♀️
 
 **Serenity Breath Web** is a mindful web application designed to guide users through a calming breathing routine, accompanied by peaceful visuals and ambient music.  
