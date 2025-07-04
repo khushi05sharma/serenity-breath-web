@@ -6,7 +6,7 @@
 
 ## 🌸 Live Demo
 
-🔗 [View Live Project](https://your-live-link.com)  
+🔗 [View Live Project](https://khushi05sharma.github.io/serenity-breath-web/)  
 📁 [Explore the Repository](https://github.com/khushi05sharma/serenity-breath-web.git)
 
 ---
