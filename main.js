@@ -37,7 +37,7 @@ resetBtn.addEventListener("click", () => {
 
 const hamburgerMenu = document.getElementById("hamburger-menu");
 const menuContent = document.getElementById("menu-content");
-const audio = new Audio();
+const audio = new Audio(); //creates a new audio element//
 
 hamburgerMenu.addEventListener("click", () => {
   menuContent.style.display =
