@@ -44,6 +44,8 @@ hamburgerMenu.addEventListener("click", () => {
     menuContent.style.display === "block" ? "none" : "block";
 });
 
+//audio part
+
 const musicButtons = document.querySelectorAll(".music-btn");
 const currentMusic = document.getElementById("current-music");
 
