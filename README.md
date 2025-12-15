@@ -32,7 +32,6 @@ Built with love using **HTML**, **CSS**, and **Vanilla JavaScript**, this projec
 
 ## Screenshots 🖼️
 
-> Replace these with your own project screenshots
 
 | Landing Page | Breathing Page |
 |--------------|----------------|
