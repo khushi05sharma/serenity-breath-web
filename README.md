@@ -82,6 +82,14 @@ This project is licensed under the MIT License– feel free to use, modify, and 
 
 ---
 
+## Developer 👩‍💻
+
+**Khushi Sharma**
+
+MERN Stack Developer passionate about building secure, scalable, and well-structured backend systems.
+
+---
+
 ## Installation ⚙️
 
 ### Steps
@@ -97,11 +105,5 @@ cd serenity-breath-web
 # Simply double-click index.html or run using Live Server in VS Code
 
 
----
 
-## Developer 👩‍💻
-
-**Khushi Sharma**
-
-MERN Stack Developer passionate about building secure, scalable, and well-structured backend systems.
 ```
