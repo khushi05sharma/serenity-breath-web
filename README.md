@@ -32,22 +32,21 @@ Built with love using **HTML**, **CSS**, and **Vanilla JavaScript**, this projec
 
 ## Screenshots 🖼️
 
-
-| Landing Page | Breathing Page |
-|--------------|----------------|
-| ![Landing](./screenshots/homepage.png) | ![Main](./screenshots/secondpage.png) | 
+| Landing Page                           | Breathing Page                        |
+| -------------------------------------- | ------------------------------------- |
+| ![Landing](./screenshots/homepage.png) | ![Main](./screenshots/secondpage.png) |
 
 ---
 
 ## Tech Stack 🛠️
 
-| Category | Tools Used |
-|---------|------------|
-| 💻 Frontend | HTML5, CSS3, JavaScript |
-| 🎨 Fonts | Google Fonts (Poppins, Lora, Playfair, etc.) |
-| 🎵 Audio | HTML5 `<audio>` API |
-| 🎬 Animation | CSS keyframes, transitions |
-| 📱 Responsiveness | CSS media queries |
+| Category          | Tools Used                                   |
+| ----------------- | -------------------------------------------- |
+| 💻 Frontend       | HTML5, CSS3, JavaScript                      |
+| 🎨 Fonts          | Google Fonts (Poppins, Lora, Playfair, etc.) |
+| 🎵 Audio          | HTML5 `<audio>` API                          |
+| 🎬 Animation      | CSS keyframes, transitions                   |
+| 📱 Responsiveness | CSS media queries                            |
 
 ---
 
@@ -65,16 +64,15 @@ Use Reset or Stop anytime to pause.
 
 ## Future Enhancements 🌱
 
- Add breathing session timer (2 min, 5 min, etc.)
+Add breathing session timer (2 min, 5 min, etc.)
 
- Save user preferences using localStorage
+Save user preferences using localStorage
 
- Improve mobile gestures (swipe for menu)
+Improve mobile gestures (swipe for menu)
 
- Add dark/light theme toggle
+Add dark/light theme toggle
 
- Convert project to React + TypeScript version
-
+Convert project to React + TypeScript version
 
 ---
 
@@ -99,3 +97,11 @@ cd serenity-breath-web
 # Simply double-click index.html or run using Live Server in VS Code
 
 
+---
+
+## Developer 👩‍💻
+
+**Khushi Sharma**
+
+MERN Stack Developer passionate about building secure, scalable, and well-structured backend systems.
+```
